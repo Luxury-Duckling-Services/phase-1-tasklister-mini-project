@@ -35,3 +35,15 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+#list{
+  width:800px;
+}
+
+#tasks li {
+  background-color: white;
+}
+
+#tasks li button {
+  float: right;
+}
